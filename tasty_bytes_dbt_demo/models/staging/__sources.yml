@@ -1,4 +1,4 @@
-version: 2
+OMNATA_SYNC_ENGINE.INBOUND_RAW."sknh_formulatest_main_Account"version: 2
 sources:
 - name: tb_101
   description: 'Point of Sale source data'
